@@ -7759,7 +7759,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 113.03 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -8087,7 +8087,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 287.02 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -8258,7 +8258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 67.0052 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8337,7 +8337,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 104.14 60.198 90)
 			(hide yes)
 			(show_name no)
@@ -8419,7 +8419,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 285.242 186.69 90)
 			(hide yes)
 			(show_name no)
@@ -8576,7 +8576,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm"
+		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
 			(at 91.44 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -8662,7 +8662,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 176.53 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -8750,7 +8750,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 162.052 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -8908,7 +8908,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 144.78 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -9075,7 +9075,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 173.6852 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -9236,7 +9236,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 205.4685 237.4495 0)
 			(hide yes)
 			(show_name no)
@@ -9329,7 +9329,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Array_SIP4"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical"
 			(at 228.6 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -9605,7 +9605,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 102.5652 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -9685,7 +9685,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Module:BeagleBoard_PocketBeagle"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 189.23 38.608 90)
 			(hide yes)
 			(show_name no)
@@ -9767,7 +9767,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 261.6485 235.7102 0)
 			(hide yes)
 			(show_name no)
@@ -9939,7 +9939,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 242.57 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -10488,7 +10488,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 322.58 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -10816,7 +10816,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 320.802 186.69 90)
 			(hide yes)
 			(show_name no)
@@ -10896,7 +10896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_NKK_GW12LJP"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 236.22 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -11056,7 +11056,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 203.6905 224.7495 90)
 			(hide yes)
 			(show_name no)
@@ -11529,7 +11529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 113.9952 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -11769,7 +11769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 94.742 140.97 90)
 			(hide yes)
 			(show_name no)
@@ -11850,7 +11850,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 75.8952 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -12010,7 +12010,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 205.9033 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -12336,7 +12336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 60.96 19.05 0)
 			(hide yes)
 			(show_name no)
@@ -12429,7 +12429,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 49.2252 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -12511,7 +12511,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 68.072 24.13 90)
 			(hide yes)
 			(show_name no)
@@ -12670,7 +12670,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 162.052 62.23 90)
 			(hide yes)
 			(show_name no)
@@ -12986,7 +12986,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 259.8705 223.0102 90)
 			(hide yes)
 			(show_name no)
@@ -13068,7 +13068,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 240.4771 222.2275 90)
 			(hide yes)
 			(show_name no)
@@ -13306,7 +13306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 87.122 140.97 90)
 			(hide yes)
 			(show_name no)
@@ -13385,7 +13385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 87.63 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -13495,7 +13495,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 158.4452 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -13577,7 +13577,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 164.338 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -13738,7 +13738,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 261.3007 200.0541 0)
 			(hide yes)
 			(show_name no)
@@ -13831,7 +13831,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 222.4268 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -13924,7 +13924,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 240.792 187.96 90)
 			(hide yes)
 			(show_name no)
@@ -14006,7 +14006,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 204.1253 187.96 90)
 			(hide yes)
 			(show_name no)
@@ -14165,7 +14165,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 220.6488 187.96 90)
 			(hide yes)
 			(show_name no)
@@ -14245,7 +14245,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 63.5 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -14802,7 +14802,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 204.1652 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -14884,7 +14884,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buzzer_Beeper:Buzzer_12x9.5RM7.6"
 			(at 81.915 172.72 90)
 			(hide yes)
 			(show_name no)
@@ -15200,7 +15200,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 222.6877 236.406 0)
 			(hide yes)
 			(show_name no)
@@ -15369,7 +15369,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_NKK_GW12LJP"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 237.49 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -15452,7 +15452,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 184.15 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -15733,7 +15733,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_NKK_GW12LJP"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 238.76 127 0)
 			(hide yes)
 			(show_name no)
@@ -15892,7 +15892,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 242.2551 234.9275 0)
 			(hide yes)
 			(show_name no)
@@ -15985,7 +15985,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 220.9097 223.706 90)
 			(hide yes)
 			(show_name no)
@@ -16067,7 +16067,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 20.0152 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -16305,7 +16305,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 259.5227 187.3541 90)
 			(hide yes)
 			(show_name no)
@@ -16387,7 +16387,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 79.7052 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -16469,7 +16469,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 68.2752 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -16551,7 +16551,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 91.1352 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -16870,7 +16870,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 63.5 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -16958,7 +16958,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 67.0052 93.98 0)
 			(hide yes)
 			(show_name no)
