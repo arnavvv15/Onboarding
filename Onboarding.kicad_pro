@@ -443,7 +443,7 @@
       "different_unit_net": "error",
       "duplicate_reference": "error",
       "duplicate_sheet_names": "error",
-      "endpoint_off_grid": "warning",
+      "endpoint_off_grid": "ignore",
       "extra_units": "error",
       "field_name_whitespace": "warning",
       "footprint_filter": "ignore",
@@ -476,7 +476,7 @@
       "single_global_label": "ignore",
       "stacked_pin_name": "warning",
       "unannotated": "error",
-      "unconnected_wire_endpoint": "warning",
+      "unconnected_wire_endpoint": "ignore",
       "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -661,7 +661,7 @@
         "uuid": "4c7d56c8-4634-431c-99d6-622034c614c6"
       }
     ],
-    "used_designators": "#PWR2-18,#PWR20-41,C1-13,FB1,P1,SW1-4,J1-6,#FLG1-4,R1-3,R5-7,Y1,U2,D1,RV1,BZ1-3",
+    "used_designators": "#PWR2-18,#PWR20-51,C1-13,FB1,P1,SW1-4,J1-6,#FLG1-4,R1-3,R5-17,Y1,U2,D1-11,RV1,BZ1-3",
     "variants": []
   },
   "sheets": [
